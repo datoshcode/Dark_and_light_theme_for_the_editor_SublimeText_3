@@ -2,12 +2,12 @@
 
 <h3>Installing themes in the SublimeText editor</h3>
 
-First download the files to your computer;<br>
-Create folders named "datosh_code_dark" and "datosh_code_light";<br>
-Move files to these folders;<br>
-Сopy these folders to the clipboard;<br>
-Open the SublimeText editor and go to Preferences -> Browse Packages.<br>
-Paste the copied from the buffer into the Packages folder.<br>
+1. First download the files to your computer;<br>
+2. Create folders named "datosh_code_dark" and "datosh_code_light";<br>
+3. Move files to these folders;<br>
+4. Сopy these folders to the clipboard;<br>
+5. Open the SublimeText editor and go to Preferences -> Browse Packages.<br>
+6. Paste the copied from the buffer into the Packages folder.<br>
 
 <h3>Theme settings</h3>
 Setting a dark theme
