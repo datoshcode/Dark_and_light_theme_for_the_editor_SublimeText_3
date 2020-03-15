@@ -2,7 +2,7 @@
 
 ## Installing themes in the SublimeText editor
 
-First download the files to your computer;
+First download the files to your computer;<br>
 Create folders named "datosh_code_dark" and "datosh_code_light";
 Move files to these folders;
 Сopy these folders to the clipboard;
