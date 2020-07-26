@@ -3,9 +3,11 @@
 <h3>Installing themes in the SublimeText editor</h3>
 
 1. Download archive zip with themes;<br>
-2. For <b>Linux</b> users: unpack the archive into a folder: /home/user/.config/sublime-text-3/Packages/User/Themes_user/;<br>
+2. For <b>Linux</b> users, unpack the archive into a folder:<br> 
+<code>/home/user/.config/sublime-text-3/Packages/User/Themes_user/;</code><br>
 If there is not "Themes_user" folder, then create it.<br>
-For <b>Windows</b> users: unpack the archive into a folder: C:\Users\user\AppData\Roaming\Sublime Text 3\Packages.<br>
+For <b>Windows</b> users, unpack the archive into a folder:<br>
+<code>C:\Users\user\AppData\Roaming\Sublime Text 3\Packages;</code><br>
 
 <h3>Theme settings</h3>
 Setting a dark theme
