@@ -110,7 +110,7 @@
 				<key>foreground</key>
 				<string>#aab300</string>
 				<key>background</key>
-				<string>#fafafa</string>
+				<string>#ebedef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -727,4 +727,3 @@
 	<string>04.01.2020</string>
 </dict>
 </plist>
-
