@@ -13,10 +13,10 @@
 <h2>Theme settings</h2>
 <h3>Setting a dark theme</h3>
 
-To set up a dark theme, in the editor, go to Preferences -> Color Scheme ... and select "Datosh_code_dark". After that, it is recommended that you go to Preferences -> Theme ... and select Adaptive.sublime-theme.
+<p>To set up a dark theme, in the editor, go to Preferences -> Color Scheme ... and select "Datosh_code_dark". After that, it is recommended that you go to Preferences -> Theme ... and select Adaptive.sublime-theme.</p>
 
 <h3>Setting a light theme</h3>
 
-To set up a light theme, go to Preferences -> Color Scheme ... in the editor and select "Datosh_code_light". After that, it is recommended that you go to Preferences -> Theme ... and select Default.sublime-theme.
+<p>To set up a light theme, go to Preferences -> Color Scheme ... in the editor and select "Datosh_code_light". After that, it is recommended that you go to Preferences -> Theme ... and select Default.sublime-theme.</p>
 
-04.01.2020
+<date>04.01.2020</date>
