@@ -4,10 +4,10 @@
 
 1. Download archive zip with themes;<br>
 2. For <b>Linux</b> users, unpack the archive into a folder:<br> 
-<code>/home/user/.config/sublime-text-3/Packages/User/Themes_user/;</code><br>
+<code>/home/USER/.config/sublime-text-3/Packages/User/Themes_user/;</code><br>
 If there is not "Themes_user" folder, then create it.<br>
 For <b>Windows</b> users, unpack the archive into a folder:<br>
-<code>C:\Users\user\AppData\Roaming\Sublime Text 3\Packages;</code><br>
+<code>C:\Users\USER\AppData\Roaming\Sublime Text 3\Packages;</code><br>
 
 <h3>Theme settings</h3>
 Setting a dark theme
