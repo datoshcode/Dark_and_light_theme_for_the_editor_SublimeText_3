@@ -1,4 +1,6 @@
-# Dark and light theme for the editor Sublime Text_3
+# Dark and light theme for the editor "Sublime Text_3" from Datosh Code
+# Тёмная и светлая темы для редактора "Sublime Text_3" от Datosh Code
+
 <h2>EN</h2>
 <h2>Installing themes in the SublimeText-3 editor</h2>
 <ol>
